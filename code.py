@@ -18,7 +18,7 @@ import pandas as pd
 import seaborn as sns
 import plotly.express as px
 import matplotlib.pyplot as plt
-%matplotlib inline
+%matplotlib in line
 
 
 warnings.filterwarnings("ignore")
